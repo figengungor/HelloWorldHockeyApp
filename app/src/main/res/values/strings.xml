@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloWorldHockeyApp</string>
+    <string name="crash_and_report"><![CDATA[Crash & Report]]></string>
 </resources>
